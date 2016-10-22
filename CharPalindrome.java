@@ -2,7 +2,7 @@ package Practice;
 public class CharPalindrome {
 public static void main(String [] args){
 
-	
+	//adding Comment
 	Palindrome pn = new Palindrome();
 	 
 	if (pn.isPalindrome(i)){
